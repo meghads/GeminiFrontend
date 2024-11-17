@@ -1,6 +1,6 @@
 # Gemini AI Frontend
 
-This repository contains a simple and lightweight frontend application for interacting with Gemini AI, built using **React** and **Vite**, as demonstrated in [this tutorial video](https://youtu.be/0yboGn8errU?si=ZVzFCO7E5Y9rzQig). The application integrates with the Gemini API to provide users with AI-powered functionality via a modern, user-friendly interface.
+This repository contains a simple and lightweight frontend application for interacting with Gemini AI, built using **React** and **Vite**. The application integrates with the Gemini API to provide users with AI-powered functionality via a modern, user-friendly interface.
 
 ## Features
 
@@ -35,6 +35,8 @@ cd GeminiFrontend
 npm install
 
 ### 3. Get your api key from google
+
+Replace the api key in src/config/gemini.js file
 
 ### 4. Run the deployment server
 
